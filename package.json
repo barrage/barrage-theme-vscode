@@ -1,0 +1,35 @@
+{
+  "name": "barrage-theme",
+  "displayName": "Barrage Theme",
+  "description": "Official Barrage LLC Theme",
+  "version": "0.0.1",
+  "license": "MIT",
+  "icon": "barrage-logo.png",
+  "bugs": {
+    "url": "https://github.com/barrage/barrage-theme-vscode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barrage/barrage-theme-vscode.git"
+  },
+  "keywords": [
+    "Barrage",
+    "Theme",
+    "VSCode"
+  ],
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Barrage Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Barrage Theme-color-theme.json"
+      }
+    ]
+  }
+}
