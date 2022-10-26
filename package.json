@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "icon": "barrage-logo.png",
+  "publisher": "Barrage",
   "bugs": {
     "url": "https://github.com/barrage/barrage-theme-vscode/issues"
   },
